@@ -1,6 +1,6 @@
 {
   "name": "h3-hono-vue",
-  "private": true,
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "vite build && npm run copy && nitro build",
