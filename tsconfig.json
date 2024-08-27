@@ -1,0 +1,9 @@
+// https://nitro.unjs.io/guide/typescript
+{
+  "extends": "./.nitro/types/tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2020"
+  }
+}
